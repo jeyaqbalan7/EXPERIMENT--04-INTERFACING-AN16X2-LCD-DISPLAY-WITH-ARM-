@@ -287,9 +287,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![image](https://github.com/lisianathiruselvan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119389971/d8e1abc2-fb7d-410d-9fbc-b751ef933467)
 
 ### LCD ON
-![pmc5](https://github.com/lisianathiruselvan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119389971/cb26aa4e-293d-4961-901a-a7b91e607271)
+![WhatsApp Image 2024-05-06 at 11 26 58](https://github.com/jeyaqbalan7/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119393851/bda795c5-dc2e-4776-b3c7-6eecbc315946)
 
- 
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  ![image](https://github.com/lisianathiruselvan/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119389971/9a589b77-8d23-4ab8-9e96-1c96ccf10ec9)
